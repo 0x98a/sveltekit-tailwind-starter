@@ -12,7 +12,6 @@
 <ModeWatcher />
 
 <ParaglideJS {i18n}>
-	<Header />
 
 	{@render children()}
 </ParaglideJS>

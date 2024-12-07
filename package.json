@@ -45,6 +45,9 @@
 	},
 	"dependencies": {
 		"@fontsource-variable/inter": "5.1.0",
-		"@inlang/paraglide-sveltekit": "0.11.5"
+		"@inlang/paraglide-sveltekit": "0.11.5",
+		"@tabler/icons-svelte": "^3.24.0",
+		"lucide-svelte": "^0.468.0",
+		"svgo": "^3.3.2"
 	}
 }
